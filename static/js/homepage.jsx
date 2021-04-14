@@ -3,7 +3,9 @@
 function Homepage() {
   return (
     <div>
-      This component needs to be implemented.
+      <p>Welcome to the trading card site!</p>
+      <a href="/cards">Click here to go to the cards page.</a>
+      <img src="/static/img/balloonicorn.jpg"/>
     </div>
   );
 }
