@@ -15,6 +15,7 @@ const tradingCardData = [
 
   {
     name: 'Llambda',
+    
     skill: 'knitting scarves',
     imgUrl: '/static/img/llambda.jpg'
   },
